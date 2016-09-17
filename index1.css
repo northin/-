@@ -1,0 +1,9 @@
+#box{
+	width:200px;
+	height:200px;
+	background:red;
+	position:absolute;
+	left:100px;
+	top:100px;
+	opacity:0.3;
+}
